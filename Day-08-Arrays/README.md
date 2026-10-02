@@ -1,45 +1,55 @@
-# Day 08 - Arrays
+# Day 09 - Array Analyzer
 
-A Java practice project created as part of my 30-Day Java Learning Journey.
+A Java console-based Array Analyzer project created as part of my 30-Day Java Learning Journey.
 
-## 🎯 What This Project Covers
+## 🎯 What This Project Does
 
-This project focuses on the basics of arrays in Java.
+This project uses an array and loops to analyze a collection of numbers.
 
-It demonstrates how to:
+The program can:
 
-- Create an array
-- Store multiple values
-- Access array elements using indexes
-- Update array elements
-- Traverse an array using a loop
-- Find and work with array values
+- Display array elements
+- Calculate the sum of elements
+- Find the largest element
+- Find the smallest element
+- Calculate the average of the elements
 
 ## 📚 Java Concepts Used
 
 - Arrays
 - Array indexing
-- `for` loop
+- for loop
 - Variables
-- User input
-- Scanner
-- Basic array operations
-- Problem-solving and logic
+- Arithmetic operators
+- if-else
+- Basic problem-solving and logic
 
 ## 💻 Example
 
-Example array:
+For the array:
 
 10, 20, 30, 40, 50
 
-The program can access and process these values using their indexes.
+Example output:
 
-Example:
+Array Elements: 10 20 30 40 50
+Sum: 150
+Largest: 50
+Smallest: 10
+Average: 30.0
 
-```text
-Array elements:
-10
-20
-30
-40
-50
+## ▶️ How to Run
+
+Compile the program:
+
+javac Main.java
+
+Run the program:
+
+java Main
+
+## 🚀 Part of My Java Journey
+
+Day 09 / 30
+
+This project helped me strengthen my understanding of arrays and loops and taught me how to process and analyze multiple values using Java.

@@ -1,0 +1,52 @@
+# Day 05 - Number Operations
+
+A Java console-based practice project created as part of my 30-Day Java Learning Journey.
+
+## 🎯 What This Project Does
+
+This project performs different operations on a number entered by the user:
+
+- Checks whether the number is Even or Odd
+- Calculates the Sum of its digits
+- Reverses the number
+- Checks whether the number is a Palindrome
+
+## 📚 Java Concepts Used
+
+- Scanner
+- User Input
+- Variables
+- if-else
+- while loop
+- Arithmetic operators
+- Modulus operator (%)
+- Basic problem-solving and logic
+
+## ▶️ How to Run
+
+Compile:
+
+javac Main.java
+
+Run:
+
+java Main
+
+## 💻 Example
+
+For the input:
+
+472
+
+The program produces:
+
+Even
+Sum: 13
+Reverse: 274
+Palindrome: No
+
+## 🚀 Part of My Java Journey
+
+Day 05 / 30
+
+This project helped me strengthen loops, conditions, arithmetic operations, and number-based problem solving in Java.
